@@ -1,0 +1,73 @@
+style.css
+body {
+  background-image: url("soucy-sky.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+body {
+  background: url("soucy-sky.jpg") !important;
+  background-size: cover;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.texte {
+  text-align: left;
+}
+
+.photo {
+  width: 120px;
+  border-radius: 10px;
+  border: 5px solid red;
+}
+h1 {
+  color: red;
+  font-size: 50px;
+  text-align: center;
+}
+
+.slogan {
+  color: #fd06e9;
+  font-size: 22px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 40px;
+  text-align: center; 
+}
+
+/* Conteneur des jeux */
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 40px;
+}
+
+/* Carte jeu */
+.jeu {
+  border: 1px solid gray;
+  padding: 20px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+
+
+/* Liens */
+.link {
+  text-align: center;
+  margin-top: 40px;
+}
+a {
+  color: #fd06e9;
+  text-decoration: none;
+}
+ 
