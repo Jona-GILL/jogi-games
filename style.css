@@ -1,15 +1,15 @@
 style.css
 
  
-body {
+.home {
   background-image: url("soucy-sky.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
-body {
-  background: url("soucy-sky.jpg") !important;
-  background-size: cover;
+.home {
+  background: url("soucy-sky.jpg") center/cover no-repeat;
+}
 }
 .jogi-games header {
   display: flex;
