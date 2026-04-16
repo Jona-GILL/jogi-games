@@ -77,13 +77,6 @@ a {
   gap: 20px;
   padding: 0 10px;
 }
-@media (max-width: 768px) {
-
-  .galerie img {
-    width: 90%;
-    height: auto;
-  }
-
 
 }
 
