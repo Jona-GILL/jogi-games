@@ -80,9 +80,8 @@ a {
 @media (max-width: 768px) {
 
   .galerie img {
-    width: 80%;
+    width: 90%;
     height: auto;
-    justify-content: center;
   }
 
 
