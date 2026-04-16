@@ -88,11 +88,13 @@ a {
 }
 
 .galerie img {
-  width: 420px;
+  width: 100%;
+  max-width: 420px;
   height: auto;
   border-radius: 20px;
   transition: transform 0.3s;
-  object-fit: contain;
+  display: block;
+  margin: 0 auto;
 }
 
 .galerie img:hover {
