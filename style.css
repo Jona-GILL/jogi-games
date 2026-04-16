@@ -4,7 +4,6 @@ style.css
 .home {
   background: url("soucy-sky.jpg") center/cover no-repeat;
 }
-}
 .jogi-games header {
   display: flex;
   justify-content: space-between;
