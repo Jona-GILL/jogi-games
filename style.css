@@ -4,8 +4,9 @@ html, body {
   height: 100%;
   margin: 0;
 }
+
 .home {
-  background: red;
+  background: url("soucy-sky.jpg") center/cover no-repeat;
   min-height: 100vh;
 }
 .jogi-games header {
