@@ -1,8 +1,14 @@
 style.css
 
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 .home {
   background: url("soucy-sky.jpg") center/cover no-repeat;
+  min-height: 100vh;
 }
 .jogi-games header {
   display: flex;
