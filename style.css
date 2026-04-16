@@ -79,13 +79,10 @@ a {
 }
 
 .galerie img {
-  width: 100%;
-  max-width: 420px;
+  max-width: 100%;
   height: auto;
   border-radius: 20px;
-  transition: transform 0.3s;
   display: block;
-  margin: 0 auto;
 }
 
 .galerie img:hover {
