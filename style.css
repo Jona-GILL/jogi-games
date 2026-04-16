@@ -82,7 +82,7 @@ a {
   .galerie img {
     width: 80%;
     height: auto;
-    margin: 20px;
+    justify-content: center;
   }
 
 
