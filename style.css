@@ -90,7 +90,7 @@ a {
 }
 
 .galerie img {
-  width: 380px;
+  width: 350px;
   height: auto;
   border-radius: 20px;
   transition: transform 0.3s;
