@@ -2,13 +2,7 @@ style.css
 
  
 .home {
-  background-image: url("soucy-sky.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-.home {
-  background: url("soucy-sky.jpg") center/cover no-repeat;
+  background-image: red;
 }
 }
 .jogi-games header {
