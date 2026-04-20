@@ -126,8 +126,9 @@ iframe {
 }
 
  .survivors {
+ .survivors {
   background-image: url("survivre-clans.jpg");
-  background-size: 60%;
+  background-size: 500px;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 100vh;
