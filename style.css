@@ -126,11 +126,7 @@ iframe {
 }
 
  .survivors {
-  background-image: url("survivre-clans.jpg");
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-color: black;
+  background: url("soucy-sky.jpg") center/cover no-repeat;
   min-height: 100vh;
 }
 .survivors header {
