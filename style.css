@@ -129,7 +129,7 @@ iframe {
   background: url("survivre-clans.jpg") center/cover no-repeat;
   min-height: 100vh;max-width: 60%;
 } 
-.survivorsheader {
+.survivors header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -140,11 +140,6 @@ iframe {
   text-align: left;
 }
 
-.photo {
-  width: 120px;
-  border-radius: 10px;
-  border: 5px solid red;
-}
 h1 {
   color: black;
   font-size: 50px;
