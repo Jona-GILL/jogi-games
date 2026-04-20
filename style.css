@@ -126,13 +126,13 @@ iframe {
 }
 
  .survivors {
-  background: url("survivre-clans.jpg");
-  background-size: 500px;
+  background-image: url("survivre-clans.jpg");
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
+  background-color: black;
   min-height: 100vh;
-  background-color: #111;
-} 
+}
 .survivors header {
   display: flex;
   justify-content: space-between;
