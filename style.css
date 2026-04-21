@@ -6,7 +6,7 @@ html, body {
 }
 
 .home {
-  background: url("soucy-sky.jpg") center/cover no-repeat;
+  background: url("soucy-sky.jpg") center/contain no-repeat;
   min-height: 100vh;
 }
 .jogi-games header {
