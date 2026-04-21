@@ -6,7 +6,7 @@ html, body {
 }
 
 .home {
-  background: url("soucy-sky.jpg") center/contain no-repeat;
+  background: url("soucy-sky.jpg") center/cover no-repeat;
   min-height: 100vh;
 }
 .jogi-games header {
@@ -129,7 +129,7 @@ iframe {
 }
 
 .survivors {
-  background: url("survivre-clans.jpg") center/contain no-repeat;
+  background: url("survivre-clans.jpg") center/cover no-repeat;
   min-height: 100vh;
 }
 .survivors header {
