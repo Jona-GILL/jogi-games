@@ -115,11 +115,12 @@ a {
 }
 
 .avis {
-  max-width: 900px;
+  max-width: 800px;
   margin: 20px auto;
   font-size: 25px;
   color: darkgreen;
-  background-color: rgba(255,255,255,0.9);
+  background-color: rgba(245, 240, 220, 0.95);
+  border-left: 5px solid darkgreen;
   padding: 20px;
   font-family: Garamond, serif;
   border-radius: 15px;
