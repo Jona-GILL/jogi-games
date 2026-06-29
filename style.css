@@ -16,6 +16,11 @@ html, body {
   padding: 20px;
 }
 
+.sacred-grove {
+  background-color: #eef5e6;
+  min-height: 100vh;
+}
+
 .texte {
   text-align: left;
 }
