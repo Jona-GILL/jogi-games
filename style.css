@@ -79,9 +79,62 @@ a {
   text-decoration: none;
 }
 
+.titre-editeurs{
+    text-align:center;
+    margin-top:50px;
+    margin-bottom:20px;
+}
 
+.editeurs{
+    display:flex;
+    justify-content:space-between;
+    gap:30px;
+
+    max-width:1000px;
+    margin:0 auto 70px auto;
+
+    background:#f7f1df;
+    border:3px solid #8a6d3b;
+    border-radius:20px;
+    padding:30px;
+}
+
+.fr,
+.en{
+    flex:1;
+}
+
+.fr{
+    border-right:2px solid #b59b63;
+    padding-right:20px;
+}
+
+.en{
+    padding-left:20px;
+}
+
+.fr h3,
+.en h3{
+    text-align:center;
+    color:darkgreen;
+}
+
+.fr a,
+.en a{
+    display:block;
+    margin:15px 0;
+    text-decoration:none;
+    font-weight:bold;
+    color:#0b4f6c;
+}
+
+.fr a:hover,
+.en a:hover{
+    color:darkgreen;
+}
 
 .galerie {
+  margin-top: 60px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
