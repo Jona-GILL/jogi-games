@@ -224,8 +224,7 @@ h1 {
 
 .bw-titlepage {
   display: block;
-  width: 40%;
-  max-width: 120px;
+  width: 20%;
   height: auto;
   margin: 20px auto 50px auto;
 }
@@ -233,6 +232,7 @@ h1 {
 .black-white {
   background-image: url("bw-titlepage.jpg");
   background-repeat: repeat;
-  background-size: 120px auto;
+  background-size: 300px auto;
   background-position: top left;
+  min-height: 100vh;
 }
