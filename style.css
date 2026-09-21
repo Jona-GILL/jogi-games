@@ -55,8 +55,11 @@ h2 {
 .container {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 40px;
-  margin: 40px;
+  margin: 40px auto;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 @media (max-width: 768px) {
@@ -195,7 +198,6 @@ a {
   margin: 20px 0;
 }
 .video {
-  .video {
   width: 400px; 
   height: auto;
   display: block;
