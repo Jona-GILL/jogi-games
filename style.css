@@ -244,5 +244,13 @@ h1 {
   background-size: 150px auto;
   background-position: top left;
   min-height: 100vh;
-  margin: 200px auto 50px auto;
+}
+
+.bw-liens {
+  background-color: rgba(255, 255, 255, 0.9);
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 25px;
+  border-radius: 15px;
+  text-align: center;
 }
