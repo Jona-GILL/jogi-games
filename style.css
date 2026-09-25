@@ -231,6 +231,21 @@ h1 {
 }
 
 
+.bw-description {
+  max-width: 800px;
+  margin: 20px auto;
+  font-size: 25px;
+  color: black;
+  background-color: rgba(242, 230, 230, 0.95);
+  border: 2px solid #f8f8f8;
+  border-left: 5px solid black;
+  padding: 20px;
+  font-family: Garamond, serif;
+  border-radius: 15px;
+  font-style: normal;
+}
+
+
 .bw-titlepage {
   display: block;
   width: 250px;
