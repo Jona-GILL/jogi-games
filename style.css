@@ -251,9 +251,9 @@ h1 {
   margin: 20px auto;
   font-size: 25px;
   color: darkgreen;
-  background-color: rgba(242, 242, 235, 0.95);
+  background-color: rgba(242, 242, 242, 0.95);
   border: 2px solid #f8f8f8;
-  border-left: 5px solid darkgreen;
+  border-left: 5px solid black;
   padding: 20px;
   font-family: Garamond, serif;
   border-radius: 15px;
