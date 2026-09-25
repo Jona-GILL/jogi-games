@@ -151,6 +151,14 @@ a {
   gap: 20px;
   padding: 0 10px;
 }
+@media (max-width: 350px) {
+  .galerie img {
+    width: 80%;
+    height: auto;
+    justify-content: center;
+    margin-left: 50px;
+    }
+}
 
 .galerie img {
   width: 350px;
@@ -163,14 +171,6 @@ a {
 .galerie img:hover {
   transform: scale(1.1);
 }
-
-@media (max-width: 768px) {
-  .galerie img {
-    width: 90%;
-    height: auto;
-  }
-}
-
 .description {
   max-width: 600px;
   margin: 20px auto;
