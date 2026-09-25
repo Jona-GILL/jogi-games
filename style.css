@@ -246,6 +246,20 @@ h1 {
   min-height: 100vh;
 }
 
+.bw-description {
+  max-width: 800px;
+  margin: 20px auto;
+  font-size: 25px;
+  color: darkgreen;
+  background-color: rgba(242, 242, 235, 0.95);
+  border: 2px solid #f8f8f8;
+  border-left: 5px solid darkgreen;
+  padding: 20px;
+  font-family: Garamond, serif;
+  border-radius: 15px;
+  font-style: italic;
+}
+
 .bw-galerie {
  /* Conteneur des jeux */
 .container {
