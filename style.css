@@ -246,6 +246,13 @@ h1 {
   min-height: 100vh;
 }
 
+.bw-galerie {
+  display: block;
+  width: 250px;
+  height: auto;
+  margin: 20px auto 50px auto;
+}
+
 .bw-liens {
   background-color: rgba(255, 255, 255, 0.9);
   max-width: 700px;
