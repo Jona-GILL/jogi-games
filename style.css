@@ -234,10 +234,10 @@ h1 {
   max-width: 750px;
   margin: 20px auto;
   font-size: 25px;
-  color: rgba(245, 140, 120, 0.95);
+  color: rgba(160, 120, 140, 0.95);
   background-color: rgba(242, 242, 200, 0.7);
   border: 2px solid #f8f8f8;
-  border-left: 5px rgba(245, 140, 120, 0.95);
+  border-left: 5px rgba(160, 120, 140, 0.95);
   padding: 20px;
   font-family: Garamond, serif;
   border-radius: 15px;
