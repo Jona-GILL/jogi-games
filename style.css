@@ -235,7 +235,7 @@ h1 {
   margin: 20px auto;
   font-size: 25px;
   color: rgba(245, 140, 120, 0.95);
-  background-color: rgba(242, 242, 200, 0.95);
+  background-color: rgba(242, 242, 200, 0.4);
   border: 2px solid #f8f8f8;
   border-left: 5px rgba(245, 140, 120, 0.95);
   padding: 20px;
