@@ -231,7 +231,7 @@ h1 {
 }
 
 .surv-description {
-  max-width: 750px;
+  max-width: 700px;
   margin: 20px auto;
   font-size: 25px;
   color: rgba(95, 84, 132, 0.95);
@@ -240,6 +240,20 @@ h1 {
   border-left: 5px rgba(95, 84, 132, 0.95);
   padding: 20px;
   font-family: Garamond, serif;
+  border-radius: 15px;
+  font-style: normal;
+}
+
+.surv-avis {
+  max-width: 800px;
+  margin: 20px auto;
+  font-size: 25px;
+  color: solid rgba(115, 70, 120, 1);
+  background-color: rgba(245, 226, 230, 0.8);
+  border: 2px  rgba(115, 70, 120, 0.7);
+  border-left: 5px solid rgba(115, 70, 120, 1);
+  padding: 20px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
   border-radius: 15px;
   font-style: normal;
 }
