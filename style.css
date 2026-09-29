@@ -327,10 +327,10 @@ h1 {
   max-width: 800px;
   margin: 20px auto;
   font-size: 25px;
-  color: solid white;
-  background-color: rgba(25, 25, 25, 0.9);
-  border: 4px  rgba(170, 170, 170, 0.7);
-  border-left: 8px solid white;
+  color: solid rgba(240, 240, 240, 1);
+  background-color: rgba(45, 45, 45, 0.85);
+  border: 4px  rgba(115, 119, 120, 0.85);
+  border-left: 8px solid rgba(240, 240, 240, 1);
   padding: 20px;
   font-family: Garamond, serif;
   border-radius: 15px;
