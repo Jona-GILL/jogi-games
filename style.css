@@ -218,6 +218,13 @@ iframe {
   background-size: 2400px auto;
   min-height: 100vh;
 }
+@media (max-width: 768px) {
+  .survivors {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+  }
+}
 
 .survivors header {
   display: flex;
